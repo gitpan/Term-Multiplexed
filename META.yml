@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Term-Multiplexed
-version:            0.0.1
+version:            0.2
 abstract:           Detect terminal multiplexers (screen, tmux)
 author:
     - Dennis Kaarsemaker <dennis@kaarsemaker.net>
